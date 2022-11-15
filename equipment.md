@@ -80,7 +80,7 @@ TODO
 - Zildjian A Zildjian 10" splash
 - PAiSTE 12" Color sound 900
 - Zildjian A Zildjian 14" Quick beat
-- Zildjian K Zildjian 14" 詳細不明 (1940-1945)
+- Zildjian K Zildjian 14" 詳細不明 Type I old stamp (1940-1945)
 - Zildjian A Custom 14" Fast crash
 - SABIAN HHX 16" Manhattan Jazz crash (Junk)
 - PAiSTE 18" なんかの china
