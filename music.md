@@ -2,12 +2,17 @@
 
 ## Japan
 - Aira Mitsuki
+- COLTEMONIKHA
 - Cymbals
 - DAOKO
+- Japonesian Balls Foundation
+- Labit Room
+- Lucky Kilimanjaro
 - MCウクダダとMC i know
 - MEG
 - miimi
 - Negicco
+- nobodyknows+
 - Number Girl
 - ORANGE RANGE
 - PandaBoY
@@ -25,9 +30,11 @@
 - スーパーカー
 - ハイスイノナサ
 - ヒートウェイヴ
+- ましのみ
 - ラブリーサマーちゃん
 - 花澤香菜
 - 吉河順央
+- 住所不定無職
 - 大塚愛
 - 竹内アンナ
 - 椎名林檎
@@ -38,12 +45,14 @@
 
 ## China, Taiwan
 - ABAO
+- CORSAK
 - Dizparity
 - Elephant Gym
 - G5SH
 - I Mean Us
 - Jannie Kyo
 - June Pan
+- Kirara Magic
 - Limi
 - Mandark
 - Ń7ä

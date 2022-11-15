@@ -75,11 +75,25 @@ TODO
 
 - ESP BOTTOM LINE
 
+### Cymbal
+- PAiSTE 4" 2002 Accent 
+- Zildjian A Zildjian 10" splash
+- PAiSTE 12" Color sound 900
+- Zildjian A Zildjian 14" Quick beat
+- Zildjian K Zildjian 14" 詳細不明 (1940-1945)
+- Zildjian A Custom 14" Fast crash
+- SABIAN HHX 16" Manhattan Jazz crash (Junk)
+- PAiSTE 18" なんかの china
+- PAiSTE Signature 18" Thin china
+- Zildjian K Zildjian 20" Custom dry ride
+
 ### Synthesizer
 
 - Behringer TD-3
 - Behringer Crave
 - KORG P3
+- KORG Micro sampler
+- 学研 NSX-39
 
 ## Amplifier
 - Orange MICRO TERROR
