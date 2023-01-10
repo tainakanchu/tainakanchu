@@ -5,11 +5,13 @@
 - COLTEMONIKHA
 - Cymbals
 - DAOKO
+- HoneyComeBear
 - Japonesian Balls Foundation
 - Labit Room
 - Lucky Kilimanjaro
 - MCウクダダとMC i know
 - MEG
+- macaroom
 - miimi
 - Negicco
 - nobodyknows+
@@ -18,6 +20,7 @@
 - PandaBoY
 - pinoko
 - ROUND TABLE
+- Sawa Angstrom
 - Shiggy Jr.
 - SPECIAL OTHERS
 - STAR☆ANIS
@@ -44,9 +47,12 @@
 
 
 ## China, Taiwan
+- ?te
 - ABAO
+- ATii
 - CORSAK
 - Dizparity
+- Eileen Yo
 - Elephant Gym
 - G5SH
 - I Mean Us
@@ -60,6 +66,7 @@
 - zc木蘭
 - 郁可唯
 - 黄龄
+- 黄于恩 温妮
 - 原子邦妮
 - 鹿比 ∞ 吠陀
 - 孫盛希
@@ -71,6 +78,7 @@
 - 渣泥
 - 魏如萱
 - 吳卓源
+- 完美倒立
 
 
 ## Other
