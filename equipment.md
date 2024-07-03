@@ -7,6 +7,8 @@ TODO
 ## Mixing console
 
 - MIDAS DM12
+- Rane SM26B
+- Behringer 302USB
 - YAMAHA MJ100 (Junk)
 - Behringer XENYX 1202 (Junk)
 
@@ -19,11 +21,18 @@ TODO
 ### Audio interface
 
 - Solid State Logic SSL 2+
+- ESI UGM192
 - M-AUDIO M-TRACK 2x2
 
 ### Control surface
 
 - iCON Platform Nano Air
+
+### Midi Controller
+
+- M-Audio TRIGGER FINGER
+- KORG nanoKONTROL2
+- KORG nanoPAD2
 
 ## Out board
 
@@ -40,6 +49,10 @@ TODO
 
 - RAMZA
 - dbx 1531P
+
+### Processor
+
+- dbx goRack
 
 ### Other
 
@@ -59,7 +72,18 @@ TODO
 
 ### Mixer
 
-- Reloop 33i
+- Ecler nuo 2
+
+### Isolator
+
+- Vestax DCR-1200
+
+### Audio Interface
+
+- Traktor Audio 2
+- Traktor Audio 4
+- Traktor Audio 8
+
 
 ### Midi controller
 
@@ -69,6 +93,8 @@ TODO
 
 ### Guitar
 
+- Squier Paranormal Cabronita Telecaster Thinline
+- Gibson SG Special
 - Legend の適当なテレキャス
 
 ### Bass
@@ -103,10 +129,6 @@ TODO
 ### Multi effector
 
 - DigiTech iStomp x 2
-
-### Pre amp
-
-- Behringer BDI21
 
 ### Overdrive / Distortion
 
