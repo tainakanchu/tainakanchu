@@ -9,8 +9,6 @@ TODO
 - MIDAS DM12
 - Rane SM26B
 - Behringer 302USB
-- YAMAHA MJ100 (Junk)
-- Behringer XENYX 1202 (Junk)
 
 ## DTM
 
@@ -62,7 +60,6 @@ TODO
 
 - JBL LSR305 x 2
 - JBL Control28 x 2
-- JBL Control1 x 2 (Junk)
 
 ## DJ
 
