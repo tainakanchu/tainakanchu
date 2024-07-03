@@ -10,28 +10,6 @@ TODO
 - Rane SM26B
 - Behringer 302USB
 
-## DTM
-
-### DAW
-
-- Cubase Artist 12
-
-### Audio interface
-
-- Solid State Logic SSL 2+
-- ESI UGM192
-- M-AUDIO M-TRACK 2x2
-
-### Control surface
-
-- iCON Platform Nano Air
-
-### Midi Controller
-
-- M-Audio TRIGGER FINGER
-- KORG nanoKONTROL2
-- KORG nanoPAD2
-
 ## Out board
 
 ### Power Distribution
@@ -51,6 +29,7 @@ TODO
 ### Processor
 
 - dbx goRack
+- BBE 262 Sonic Maximizer
 
 ### Other
 
@@ -85,6 +64,28 @@ TODO
 ### Midi controller
 
 - DDJ-200
+
+## DTM
+
+### DAW
+
+- Cubase Artist 12
+
+### Audio interface
+
+- Solid State Logic SSL 2+
+- ESI UGM192
+- M-AUDIO M-TRACK 2x2
+
+### Control surface
+
+- iCON Platform Nano Air
+
+### Midi Controller
+
+- M-Audio TRIGGER FINGER
+- KORG nanoKONTROL2
+- KORG nanoPAD2
 
 ## Music instruments
 
