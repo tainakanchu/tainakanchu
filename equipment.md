@@ -65,6 +65,10 @@ TODO
 
 - DDJ-200
 
+### Laptop stand
+
+- RockJam RJLP1
+
 ## DTM
 
 ### DAW
@@ -151,7 +155,7 @@ TODO
 
 ### Reverb / Delay
 
-- Alesis NaonoVerb
+- Alesis NanoVerb
 - Boss DD-7
 
 ### EQ
