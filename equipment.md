@@ -122,6 +122,7 @@ TODO
 - KORG P3
 - KORG Micro sampler
 - 学研 NSX-39
+- Roland JUNO-106
 
 ## Amplifier
 - Orange MICRO TERROR
@@ -161,3 +162,8 @@ TODO
 ### EQ
 
 - Behringer BEQ700
+
+## Video
+### Projector
+
+- EPSON 
