@@ -40,6 +40,10 @@ TODO
 - JBL LSR305 x 2
 - JBL Control28 x 2
 
+## Amplifier
+
+- Electro-Voice Q66II
+
 ## DJ
 
 ### Turntable
