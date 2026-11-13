@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="img/icon.jpg" width="140" height="140" alt="かんちゅ" />
+<img src="img/icon.jpg" width="120" height="120" alt="かんちゅ" />
 
-### かんちゅ · @tainakanchu
+<br />
+<br />
 
-`Software Engineer` / `DJ`
+<a href="https://tainakanchu.com/"><img width="721" alt="かんちゅ — Software Engineer / DJ" src="https://readme-stats.tainakanchu815.workers.dev/sign?theme=binlang" /></a>
 
-[![tainakanchu.com](https://img.shields.io/badge/tainakanchu.com-0d0820?style=flat-square)](https://tainakanchu.com/)
-[![X](https://img.shields.io/badge/X-0d0820?style=flat-square&logo=x&logoColor=white)](https://x.com/tainakanchu)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-0d0820?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/tainakanchu)
+[![tainakanchu.com](https://img.shields.io/badge/tainakanchu.com-07050d?style=for-the-badge&logo=googlechrome&logoColor=ff2fd2)](https://tainakanchu.com/)
+[![X](https://img.shields.io/badge/X-07050d?style=for-the-badge&logo=x&logoColor=21d4ff)](https://x.com/tainakanchu)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-07050d?style=for-the-badge&logo=soundcloud&logoColor=ff7a1a)](https://soundcloud.com/tainakanchu)
 
 </div>
 
@@ -41,8 +42,10 @@
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats-tainakanchu.vercel.app/api?username=tainakanchu&count_private=true&show_icons=true&theme=synthwave&hide_border=true" />
-<img height="165" alt="Top languages" src="https://github-readme-stats-tainakanchu.vercel.app/api/top-langs/?username=tainakanchu&count_private=true&layout=compact&theme=synthwave&hide_border=true" />
+<img height="175" alt="GitHub stats" src="https://readme-stats.tainakanchu815.workers.dev/stats?theme=binlang" />
+<img height="175" alt="Top languages" src="https://readme-stats.tainakanchu815.workers.dev/langs?theme=binlang" />
+<br />
+<img width="721" alt="Contributions in the past year" src="https://readme-stats.tainakanchu815.workers.dev/wave?theme=binlang" />
 
 </div>
 
